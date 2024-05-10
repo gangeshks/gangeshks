@@ -1,6 +1,5 @@
 
 - 👋 Hi, I’m @Gangeshks
-- 👀 I’m interested in girls(Female)
-- 🌱 I’m currently learning HTML,CCS, JAVASCRIPT 
+- 🌱 I’m currently learning NODE JS , BACKEND
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
