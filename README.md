@@ -15,10 +15,31 @@ I'm a self-taught passionate FrontEnd developer from [Your Country] 🇮🇳
 - 💬 Ask me anything [here](https://github.com/your-username/your-username/issues)
 
 ### 🛠️ Tech Stack
+
+#### Frontend
+![HTML](https://img.shields.io/badge/-HTML-black?style=flat-square&logo=html5)
+![CSS](https://img.shields.io/badge/-CSS-black?style=flat-square&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
-![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+![jQuery](https://img.shields.io/badge/-jQuery-black?style=flat-square&logo=jquery)
 ![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
+![Express.js](https://img.shields.io/badge/-Express.js-black?style=flat-square&logo=express)
+![EJS](https://img.shields.io/badge/-EJS-black?style=flat-square&logo=ejs)
+
+#### Programming
+![C](https://img.shields.io/badge/-C-black?style=flat-square&logo=c)
+![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=java)
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
+![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
+
+#### Other
+![DSA](https://img.shields.io/badge/-DSA-black?style=flat-square)
+![OOP](https://img.shields.io/badge/-OOP-black?style=flat-square)
+![Adobe Photoshop](https://img.shields.io/badge/-Adobe%20Photoshop-black?style=flat-square&logo=adobephotoshop)
+![Cyber Security](https://img.shields.io/badge/-Cyber%20Security-black?style=flat-square)
+![Burp Suite](https://img.shields.io/badge/-Burp%20Suite-black?style=flat-square&logo=burpsuite)
+![Oracle](https://img.shields.io/badge/-Oracle-black?style=flat-square&logo=oracle)
+![VS Code](https://img.shields.io/badge/-VS%20Code-black?style=flat-square&logo=visualstudiocode)
+
 
 ---
 
