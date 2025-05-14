@@ -11,7 +11,7 @@ I'm a self-taught passionate FrontEnd developer from India.
 
 - 🔭 I’m currently working as Frontend Engineer and Cyber Security.
 - 🌟 Built [github-readme-stats](https://github.com/anuraghazra/github-readme-stats), [verlyjs](https://github.com/anuraghazra/verlyjs) and more!
-- 💻 I love Solve the Complex Problem.
+- 💻 I love to Solve the Complex Problem.
 - 💬 Ask me anything [here](https://github.com/gangeshks/)
 
 ### 🛠️ Tech Stack
