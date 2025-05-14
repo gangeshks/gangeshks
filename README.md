@@ -1,18 +1,18 @@
 
 
-<h1 align="center">Hello! I'm [Gangesh kumar] <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/></h1>
+<h1 align="center">Hello! I'm Gangesh kumar <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/></h1>
 <p align="center"><i>I do open source :)</i></p>
 
 ---
 
-I'm a self-taught passionate FrontEnd developer from [Your Country] 🇮🇳
+I'm a self-taught passionate FrontEnd developer from India.
 
 ### 🧑‍💻 About me
 
-- 🔭 I’m currently working as Frontend Engineer at [CompanyName](https://your-company-link.com)
+- 🔭 I’m currently working as Frontend Engineer and Cyber Security.
 - 🌟 Built [github-readme-stats](https://github.com/anuraghazra/github-readme-stats), [verlyjs](https://github.com/anuraghazra/verlyjs) and more!
-- 💻 I love writing **TypeScript** and experimenting with **type-level programming**
-- 💬 Ask me anything [here](https://github.com/your-username/your-username/issues)
+- 💻 I love Solve the Complex Problem.
+- 💬 Ask me anything [here](https://github.com/gangeshks/)
 
 ### 🛠️ Tech Stack
 
@@ -52,5 +52,4 @@ I'm a self-taught passionate FrontEnd developer from [Your Country] 🇮🇳
 ---
 
 ### 📌 Top Repositories
-[![github-readme-stats]()
-[![portfolio]()
+
