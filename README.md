@@ -46,7 +46,7 @@ I'm a self-taught passionate FrontEnd developer from [Your Country] 🇮🇳
 ### 📊 Coding Profile 
 <div align="center">
   <img [src="https://drive.google.com/file/d/1bW-lDJiIeQAd6h8C8FuA_ABYeZ3I_8Bp/view"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical" />
+  <img src="https://drive.google.com/file/d/1je17AmV5noE11fer3GwVFzHd1d4VwVA3/view?usp=drive_link" />
 </div>
 
 ---
