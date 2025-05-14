@@ -45,7 +45,7 @@ I'm a self-taught passionate FrontEnd developer from [Your Country] 🇮🇳
 
 ### 📊 Coding Profile 
 <div align="center">
-  <img src="[https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical" ](https://github.com/gangeshks/gangeshks/blob/main/Gfg.jpg?raw=true)/>
+  <img [src="[https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical" ](https://github.com/gangeshks/gangeshks/blob/main/Gfg.jpg?raw=true)](https://drive.google.com/file/d/1bW-lDJiIeQAd6h8C8FuA_ABYeZ3I_8Bp/view?usp=drive_link)/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical" />
 </div>
 
